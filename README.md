@@ -62,7 +62,7 @@ antropometría (peso, medidas corporales y % de grasa) con evolución graficada,
 frecuencia de consumo, planes alimenticios, carta de consentimiento y agenda.
 
 - **Stack:** Next.js · TypeScript · Supabase · Tailwind
-- **Detalles:** planes alimenticios normalizados en cuatro niveles (plan → días → comidas → alimentos) para poder editar una sola comida sin reescribir el plan; 27 políticas de RLS; página pública de reserva de cita; sincronización con **Google Calendar** vía OAuth; formularios con React Hook Form y gráficas con Recharts.
+- **Detalles:** planes alimenticios normalizados en cuatro niveles (plan → días → comidas → alimentos) para poder editar una sola comida sin reescribir el plan; RLS en las 12 tablas; página pública de reserva de cita; sincronización con **Google Calendar** vía OAuth; formularios con React Hook Form y gráficas con Recharts.
 
 ### BarberCore — SaaS multi-tenant de citas
 🔗 [barber-core.vercel.app](https://barber-core.vercel.app)

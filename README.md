@@ -25,8 +25,7 @@ Aprendo construyendo cosas que tienen que funcionar.
 ## 💻 Habilidades técnicas
 
 **Lenguajes**
-- **En producción:** TypeScript · JavaScript · SQL (PostgreSQL) · HTML · CSS
-- **En formación:** Python · Java
+- TypeScript · JavaScript · Python · Java · SQL (PostgreSQL) · HTML · CSS
 
 **Frontend**
 - Next.js (App Router) · React · Tailwind CSS v4 · shadcn/ui · Framer Motion · Recharts

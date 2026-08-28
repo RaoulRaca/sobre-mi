@@ -54,13 +54,15 @@ pacientes, agenda de citas y panel de métricas.
 - **Stack:** Next.js (App Router) · TypeScript · Supabase · Tailwind · shadcn/ui
 - **Detalles:** gráficas de actividad con Recharts, animaciones con Framer Motion, manejo de estado con Zustand, modo claro/oscuro.
 
-### Ana Ramos Consultorio — Control de pacientes
+### Ana Ramos Consultorio — Sistema para consultorio de nutrición
 🔗 [ana-ramos-consultorio.vercel.app](https://ana-ramos-consultorio.vercel.app)
 
-Sistema de control de pacientes y agenda para consultorio médico, en uso real.
+Sistema completo de seguimiento nutricional en uso real: expediente clínico,
+antropometría (peso, medidas corporales y % de grasa) con evolución graficada,
+frecuencia de consumo, planes alimenticios, carta de consentimiento y agenda.
 
 - **Stack:** Next.js · TypeScript · Supabase · Tailwind
-- **Detalles:** formularios validados con React Hook Form, calendario de citas, reportes con Recharts.
+- **Detalles:** planes alimenticios normalizados en cuatro niveles (plan → días → comidas → alimentos) para poder editar una sola comida sin reescribir el plan; 27 políticas de RLS; página pública de reserva de cita; sincronización con **Google Calendar** vía OAuth; formularios con React Hook Form y gráficas con Recharts.
 
 ### BarberCore — SaaS multi-tenant de citas
 🔗 [barber-core.vercel.app](https://barber-core.vercel.app)

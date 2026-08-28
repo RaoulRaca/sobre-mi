@@ -95,6 +95,7 @@ Sitio de la empresa, sin frameworks, con un backend de contacto funcional.
 
 ## 📫 Contacto
 
+- 📧 **Correo:** [raoulema2802@gmail.com](mailto:raoulema2802@gmail.com)
 - 🌐 **[raudexsystems.com](https://raudexsystems.com)** — formulario de contacto directo
 - 💼 GitHub: [@RaoulRaca](https://github.com/RaoulRaca)
 
